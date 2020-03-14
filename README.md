@@ -8,7 +8,7 @@ La boxenergie sert à controler ses consommations d'énergie et sa production so
 
 en savoir plus : http://www.sunshare.fr/boxenergie
 
-<p><img width="400" alt="sunfold"  (https://user-images.githubusercontent.com/49123814/76684298-0f902600-660b-11ea-822c-b30f61594cdc.png)></p>
+<p align="center"> <img width="400" alt="sunfold" src="https://user-images.githubusercontent.com/49123814/76684298-0f902600-660b-11ea-822c-b30f61594cdc.png"> </p>
 
 
 #English translation
@@ -19,4 +19,4 @@ print on A4 page (210 x 297 mm) - paper recommanded above 200 g/m2
 boxenergie is a raspberry computer designed to monitor energy and solar production with the french linky smartmeter.
 see http://www.sunshare.fr/boxenergie
 
-<p><img width="200" alt="boxenergie"  https://user-images.githubusercontent.com/49123814/76684213-2c782980-660a-11ea-97b8-74543207cc1b.png></p>
+<p align="center"> <img width="200" alt="boxenergie" src="https://user-images.githubusercontent.com/49123814/76684213-2c782980-660a-11ea-97b8-74543207cc1b.png"></p>
