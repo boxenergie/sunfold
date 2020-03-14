@@ -2,7 +2,9 @@
 <i>english translation below</i>
 
 boitier canson à plier pour la boxenergie.
-imprimer sur une page A4 - grammage recommandé supérieur à 200g/m2
+imprimer sur une page A4 - grammage recommandé supérieur à 200g/m2.
+
+La cale est à rouler et placer sous le bornier pour le caler.
 
 La boxenergie sert à controler ses consommations d'énergie et sa production solaire photovoltaïque. C'est un projet libre à partir d'un mini ordinateur raspberry pi.
 
