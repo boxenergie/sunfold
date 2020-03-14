@@ -14,3 +14,5 @@ print on A4 page (210 x 297 mm) - paper recommanded above 200 g/m2
 
 boxenergie is a raspberry computer designed to monitor energy and solar production with the french linky smartmeter.
 see http://www.sunshare.fr/boxenergie
+
+<img width="200" alt="boxenergie"  https://user-images.githubusercontent.com/49123814/76684213-2c782980-660a-11ea-97b8-74543207cc1b.png>
