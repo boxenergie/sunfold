@@ -1,10 +1,14 @@
 # sunfold
+english translation below
+
 boitier canson à plier pour la boxenergie.
 imprimer sur une page A4 - grammage recommandé supérieur à 200g/m2
 
 La boxenergie sert à controler ses consommations d'énergie et sa production solaire photovoltaïque. C'est un projet libre à partir d'un mini ordinateur raspberry pi.
 
 en savoir plus : http://www.sunshare.fr/boxenergie
+
+<img width="400" alt="sunfold"  (https://user-images.githubusercontent.com/49123814/76684298-0f902600-660b-11ea-822c-b30f61594cdc.png)>
 
 
 #English translation
